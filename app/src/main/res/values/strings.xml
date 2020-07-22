@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">btsukien</string>
+    <string name="switchExpert">you have experience with JAva famewworks</string>
+    <string name="editName" />
+    <string name="editEmail" />
+    <string name="btnCancel">Hủy</string>
+    <string name="chkReading">Reading</string>
+    <string name="rdMale">Nam</string>
+    <string name="btnInfo">OK</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtLang">Langues</string>
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="rdFemale">Nu</string>
+    <string name="chkTravelling">Travelling</string>
+    <string name="txtgt">Sex</string>
+    <string name="txtst">Hobiies</string>
+    <string name="imageView" />
+    <string name="chkCoding">Coding</string>
+</resources>
